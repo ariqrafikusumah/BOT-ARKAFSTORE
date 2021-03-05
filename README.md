@@ -18,7 +18,7 @@ Follow The Steps Below!
 > pkg upgrade -y
 > pkg install git -y
 > git clone https://github.com/ariqrafikusumah/BOT-ARKAFSTORE
-> cd bot-wea-v2
+> cd BOT-ARKAFSTORE
 > npm cache clear
 > bash install.sh
 > npm audit fix
